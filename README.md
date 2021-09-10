@@ -12,13 +12,14 @@ const JosueARz = {
     pronouns: "He" | "Him",
     code: ["Python", "R"],
     tools:{Python_libraries, R_Packages ={"Seaborn", "Matplotlib", "Numpy", "Pandas", "Statsmodels",
-                              "Scikit-learn", "TensorFlow", "Keras"},{
-                                 }
+                              "Scikit-learn", "TensorFlow", "Keras", and more ...}, 
+                              {"caTools", "dplyr", "e1071", "ggplot2", "Keras", "dummies", "leaps",
+                              "glmnet", "MASS", "gbm",  and more ...}
         }
     }
     
 JosueARz.contact()
 
 Linkedin:
-Github: JosueARz
+Github: JosueARz 
 ```
