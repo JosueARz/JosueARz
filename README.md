@@ -1,7 +1,7 @@
 ```python
 from Data import JosueARz
 
-JosueARz.describe()
+print(JosueARz.describe())
 
 - Machine learning and data science enthusiast.
 - Physics Graduate
@@ -18,7 +18,7 @@ const JosueARz = {
         }
     }
     
-JosueARz.contact()
+print(JosueARz.contact())
 
 Linkedin:
 Github: JosueARz 
