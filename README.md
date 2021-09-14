@@ -11,11 +11,13 @@ print(JosueARz.describe())
 const JosueARz = {
     pronouns: "He" | "Him",
     code: ["Python", "R"],
-    tools:{Python_libraries, R_Packages ={"Seaborn", "Matplotlib", "Numpy", "Pandas", "Statsmodels",
+    algorithms: [Linear regression, Logistic regression, LDA, KNN, Decision trees, Classification trees, Random forest, 
+                 Support Vector classifiers, Support Vector machines ANN, CNN, Time series{ARIMA, SARIMA}],
+    tools:[Python_libraries, R_Packages ={"Seaborn", "Matplotlib", "Numpy", "Pandas", "Statsmodels",
                               "Scikit-learn", "TensorFlow", "Keras", and more ...}, 
                               {"caTools", "dplyr", "e1071", "ggplot2", "Keras", "dummies", "leaps",
                               "glmnet", "MASS", "gbm",  and more ...}
-        }
+        ]
     }
     
 print(JosueARz.contact())
