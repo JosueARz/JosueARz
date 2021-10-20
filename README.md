@@ -22,6 +22,6 @@ const JosueARz = {
     
 print(JosueARz.contact())
 
-Linkedin:
+Linkedin: www.linkedin.com/in/josue-ayala-ruiz
 Github: JosueARz 
 ```
