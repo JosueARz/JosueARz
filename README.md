@@ -1,27 +1,24 @@
-```python
-from Data import JosueARz
+Científico de Datos | Físico | Explorador de ideas que transforman datos en decisiones
 
-print(JosueARz.describe())
+Transformo complejidad en claridad.
+Automatizo lo que otros temen tocar.
+Y creo tecnología que respeta tu privacidad.
 
-- Machine learning and data science enthusiast.
-- Physics Graduate
-- I am currently working on some of my projects based on Machine Learning and Data Analysis.
-- I am currently looking for opportunities. I love learning and contributing in every possible way.
+# Sobre mí
+Soy Licenciado en Física con enfoque en Ciencia de Datos, Inteligencia Artificial y Automatización. Me especializo en el desarrollo de soluciones que integran análisis avanzado, automatización inteligente y manejo ético de datos.
 
-const JosueARz = {
-    pronouns: "He" | "Him",
-    code: ["Python", "R"],
-    algorithms: [Linear regression, Logistic regression, LDA, KNN, Decision trees, Classification trees, Random forest, 
-                 Support Vector classifiers, Support Vector machines ANN, CNN, Time series{ARIMA, SARIMA}],
-    tools:[Python_libraries, R_Packages ={"Seaborn", "Matplotlib", "Numpy", "Pandas", "Statsmodels",
-                              "Scikit-learn", "TensorFlow", "Keras", and more ...}, 
-                              {"caTools", "dplyr", "e1071", "ggplot2", "Keras", "dummies", "leaps",
-                              "glmnet", "MASS", "gbm",  and more ...}
-        ]
-    }
-    
-print(JosueARz.contact())
+Actualmente desarrollo una librería enfocada en facilitar la interacción privada con datos. Mi objetivo es que las organizaciones puedan consultar y analizar su información con seguridad, precisión y autonomía.
 
-Linkedin: www.linkedin.com/in/josue-ayala-ruiz
-Github: JosueARz 
-```
+# Tecnologías que utilizo
+- Python
+- SQL
+- Dataiku
+- AWS
+- Azure
+
+# Contacto profesional
+- www.linkedin.com/in/josue-ayala-ruiz
+
+# Nota final
+Este perfil está escrito en español como una declaración de identidad y comunidad. La tecnología también se piensa, diseña y construye en nuestra lengua.
+
